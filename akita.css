@@ -1,0 +1,50 @@
+body {
+	background-image: url(pics/fonb.jpg);     
+}
+
+#h1 {
+	font-size: 50px;
+	cursor: default;
+	color: #0d0c0b;
+}
+
+div {
+	cursor: default;
+	font-family: Arial;
+	font-size: 17px;
+	color: #0d0c0b;
+}
+
+figure {
+	font-family: Arial;
+	cursor: default;
+	color: #0d0c0b;
+}
+
+.f1c:hover {
+	transform:rotate:(0.1deg);
+}
+
+.left {
+	text-align:left;
+}
+
+.center {
+	text-align:center;
+}
+
+.right {
+	text-align:right;
+}
+
+audio {
+    filter: sepia(80%) saturate(0%) contrast(100%) invert(0%);
+    width: 400px;
+} 
+
+#end {
+	text-align:center;
+	cursor: default;
+	color: #0d0c0b;
+	font-size:7px;
+}
